@@ -1,0 +1,38 @@
+img {
+    position: absolute;
+    left: 700px;
+    top: 300px;
+}
+
+button {
+    color: black;
+    font-family: 'Levenim MT';
+    font-size: 50px;
+}
+
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Levenim MT';
+    font-size: 75px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #add8e6;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px;
+}
+
